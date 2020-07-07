@@ -1,48 +1,55 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="connorandrewlinton.com" resolutions="1x" timestamp="1593719974801">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="connorandrewlinton.com" resolutions="1x" timestamp="1594118954279">
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="3972615322" ref="phone>logos---icons:phone>ocs:phone>index:phone>33-and-a-third:phone>hounds-tooth"/>
+      <file name="logos---icons.css" crc="71545294" ref="phone>logos---icons"/>
+      <file name="ocs.css" crc="133716706" ref="phone>ocs"/>
+      <file name="why-i-want-to-work-at-tango.css" crc="62426684" ref="phone>why-i-want-to-work-at-tango"/>
+      <file name="nomq_why-i-want-to-work-at-tango.css" crc="3824530138" ref="phone>why-i-want-to-work-at-tango"/>
+      <file name="index.css" crc="269055914" ref="phone>index"/>
+      <file name="33-and-a-third.css" crc="524987027" ref="phone>33-and-a-third"/>
+      <file name="hounds-tooth.css" crc="197865190" ref="phone>hounds-tooth"/>
+    </folder>
+    <file name="index.html" crc="3824381712" seo="true" mt="1594118888319" redirect="true"/>
+    <file name="33-and-a-third.html" crc="3949222911" seo="true" mt="1594118888319" redirect="true"/>
+    <file name="ocs.html" crc="4595811" seo="true" mt="1594118888319" redirect="true"/>
+    <file name="hounds-tooth.html" crc="299706535" seo="true" mt="1594118888319" redirect="true"/>
+    <file name="logos---icons.html" crc="257923104" seo="true" mt="1594118888319" redirect="true"/>
+    <file name="why-i-want-to-work-at-tango.html" crc="3865892388" seo="true" mt="1594116984430" redirect="false"/>
+  </folder>
   <folder name="css">
     <file name="site_global.css" crc="419451900"/>
-    <file name="master_a-master.css" crc="4139394276" ref="logos---icons:index:ocs:33-and-a-third:hounds-tooth"/>
-    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="logos---icons:index:ocs:33-and-a-third:hounds-tooth"/>
-    <file name="logos---icons.css" crc="155042566" ref="logos---icons"/>
-    <file name="nomq_logos---icons.css" crc="4106780342" ref="logos---icons"/>
-    <file name="index.css" crc="4138373012" ref="index"/>
-    <file name="nomq_index.css" crc="4186099693" ref="index"/>
+    <file name="master_a-master.css" crc="3817968061" ref="logos---icons:index:ocs:33-and-a-third:hounds-tooth"/>
+    <file name="logos---icons.css" crc="141046881" ref="logos---icons"/>
+    <file name="index.css" crc="436497052" ref="index"/>
     <file name="why-i-want-to-work-at-tango.css" crc="321824715" ref="why-i-want-to-work-at-tango"/>
-    <file name="ocs.css" crc="4206315712" ref="ocs"/>
-    <file name="nomq_ocs.css" crc="11314468" ref="ocs"/>
-    <file name="33-and-a-third.css" crc="4114142322" ref="33-and-a-third"/>
-    <file name="nomq_33-and-a-third.css" crc="4043886015" ref="33-and-a-third"/>
-    <file name="hounds-tooth.css" crc="183920100" ref="hounds-tooth"/>
-    <file name="nomq_hounds-tooth.css" crc="3927579961" ref="hounds-tooth"/>
+    <file name="ocs.css" crc="4251603253" ref="ocs"/>
+    <file name="33-and-a-third.css" crc="497127342" ref="33-and-a-third"/>
+    <file name="hounds-tooth.css" crc="130582384" ref="hounds-tooth"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:why-i-want-to-work-at-tango:logos---icons:33-and-a-third:hounds-tooth:ocs"/>
-    <file name="museutils.js" crc="340535759" ref="index:why-i-want-to-work-at-tango:logos---icons:33-and-a-third:hounds-tooth:ocs"/>
-    <file name="whatinput.js" crc="86476730" ref="index:why-i-want-to-work-at-tango:logos---icons:33-and-a-third:hounds-tooth:ocs"/>
-    <file name="museconfig.js" crc="4286661555" ref="index:why-i-want-to-work-at-tango:logos---icons:33-and-a-third:hounds-tooth:ocs"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:33-and-a-third:hounds-tooth:ocs"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index:why-i-want-to-work-at-tango:logos---icons:33-and-a-third:hounds-tooth:ocs"/>
-    <file name="jquery.museresponsive.js" crc="527716135" ref="index:logos---icons:33-and-a-third:hounds-tooth:ocs"/>
-    <file name="require.js" crc="7928878" ref="index:why-i-want-to-work-at-tango:logos---icons:33-and-a-third:hounds-tooth:ocs"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:why-i-want-to-work-at-tango:logos---icons:33-and-a-third:hounds-tooth:ocs:phone>index:phone>33-and-a-third:phone>ocs:phone>hounds-tooth:phone>logos---icons:phone>why-i-want-to-work-at-tango"/>
+    <file name="museutils.js" crc="340535759" ref="index:why-i-want-to-work-at-tango:logos---icons:33-and-a-third:hounds-tooth:ocs:phone>index:phone>33-and-a-third:phone>ocs:phone>hounds-tooth:phone>logos---icons:phone>why-i-want-to-work-at-tango"/>
+    <file name="whatinput.js" crc="86476730" ref="index:why-i-want-to-work-at-tango:logos---icons:33-and-a-third:hounds-tooth:ocs:phone>index:phone>33-and-a-third:phone>ocs:phone>hounds-tooth:phone>logos---icons:phone>why-i-want-to-work-at-tango"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:why-i-want-to-work-at-tango:logos---icons:33-and-a-third:hounds-tooth:ocs:phone>index:phone>33-and-a-third:phone>ocs:phone>hounds-tooth:phone>logos---icons:phone>why-i-want-to-work-at-tango"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:33-and-a-third:hounds-tooth:ocs:phone>index:phone>33-and-a-third:phone>ocs:phone>hounds-tooth"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:why-i-want-to-work-at-tango:logos---icons:33-and-a-third:hounds-tooth:ocs:phone>index:phone>33-and-a-third:phone>ocs:phone>hounds-tooth:phone>logos---icons:phone>why-i-want-to-work-at-tango"/>
+    <file name="require.js" crc="7928878" ref="index:why-i-want-to-work-at-tango:logos---icons:33-and-a-third:hounds-tooth:ocs:phone>index:phone>33-and-a-third:phone>ocs:phone>hounds-tooth:phone>logos---icons:phone>why-i-want-to-work-at-tango"/>
     <file name="jquery.scrolleffects.js" crc="39568856" ref="why-i-want-to-work-at-tango"/>
-    <file name="webpro.js" crc="4059564322" ref="logos---icons"/>
-    <file name="musewpslideshow.js" crc="3862962738" ref="logos---icons"/>
-    <file name="jquery.museoverlay.js" crc="4147669564" ref="logos---icons"/>
-    <file name="touchswipe.js" crc="4075097462" ref="logos---icons"/>
+    <file name="webpro.js" crc="4059564322" ref="logos---icons:phone>logos---icons"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="logos---icons:phone>logos---icons"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="logos---icons:phone>logos---icons"/>
+    <file name="touchswipe.js" crc="4075097462" ref="logos---icons:phone>logos---icons"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="3779392410" ref="index"/>
+    <file name="favicon.ico" crc="4160244720" ref="phone>index"/>
     <file name="331-3-02-u6955-fr.jpg" crc="4029460706" ref="index"/>
     <file name="ocs-02-u7102-fr.png" crc="375806298" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index:why-i-want-to-work-at-tango:logos---icons:33-and-a-third:hounds-tooth:ocs"/>
+    <file name="blank.gif" crc="4208392903" ref="index:why-i-want-to-work-at-tango:logos---icons:phone>index:phone>logos---icons"/>
     <file name="houndstooth-01-u7096-fr.jpg" crc="4294409925" ref="index"/>
-    <file name="icons-05.gif" crc="4158939695" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="icons-05.gif" crc="4158939695" ref="index:phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="331-3-02-u6955-fr2.jpg" crc="467327422" ref="index"/>
-    <file name="houndstooth-01-u7096-fr2.jpg" crc="4264370818" ref="index:hounds-tooth"/>
-    <file name="ocs-02-u7102-fr2.png" crc="178094982" ref="index:ocs"/>
     <file name="icons-01440x440.jpg" crc="253421813" seo="true" ref="logos---icons">
       <caption webpage="logos---icons" alt=""/>
     </file>
@@ -70,68 +77,59 @@
     <file name="icons-09440x440.jpg" crc="379797445" seo="true" ref="logos---icons">
       <caption webpage="logos---icons" alt=""/>
     </file>
-    <file name="icons-01.jpg" crc="161202275" seo="true" ref="logos---icons">
-      <caption webpage="logos---icons" alt=""/>
-      <caption webpage="logos---icons" alt=""/>
-    </file>
-    <file name="icons-02.jpg" crc="508341317" seo="true" ref="logos---icons">
-      <caption webpage="logos---icons" alt=""/>
+    <file name="icons-01.jpg" crc="161202275" seo="true" ref="logos---icons:phone>logos---icons">
       <caption webpage="logos---icons" alt=""/>
     </file>
-    <file name="icons-03.jpg" crc="386521767" seo="true" ref="logos---icons">
-      <caption webpage="logos---icons" alt=""/>
-      <caption webpage="logos---icons" alt=""/>
-    </file>
-    <file name="icons-04.jpg" crc="4172087440" seo="true" ref="logos---icons">
-      <caption webpage="logos---icons" alt=""/>
+    <file name="icons-02.jpg" crc="508341317" seo="true" ref="logos---icons:phone>logos---icons">
       <caption webpage="logos---icons" alt=""/>
     </file>
-    <file name="icons-05.png" crc="485713856" seo="true" ref="logos---icons">
-      <caption webpage="logos---icons" alt=""/>
-      <caption webpage="logos---icons" alt=""/>
-    </file>
-    <file name="icons-06.jpg" crc="4179651550" seo="true" ref="logos---icons">
-      <caption webpage="logos---icons" alt=""/>
+    <file name="icons-03.jpg" crc="386521767" seo="true" ref="logos---icons:phone>logos---icons">
       <caption webpage="logos---icons" alt=""/>
     </file>
-    <file name="icons-07.jpg" crc="392457393" seo="true" ref="logos---icons">
-      <caption webpage="logos---icons" alt=""/>
-      <caption webpage="logos---icons" alt=""/>
-    </file>
-    <file name="icons-08.jpg" crc="4021197037" seo="true" ref="logos---icons">
-      <caption webpage="logos---icons" alt=""/>
+    <file name="icons-04.jpg" crc="4172087440" seo="true" ref="logos---icons:phone>logos---icons">
       <caption webpage="logos---icons" alt=""/>
     </file>
-    <file name="icons-09.jpg" crc="3783345326" seo="true" ref="logos---icons">
-      <caption webpage="logos---icons" alt=""/>
-      <caption webpage="logos---icons" alt=""/>
-    </file>
-    <file name="loading.gif" crc="3815509949" ref="logos---icons"/>
-    <file name="icons-01416x416.jpg" crc="149970302" seo="true" ref="logos---icons">
+    <file name="icons-05.png" crc="485713856" seo="true" ref="logos---icons:phone>logos---icons">
       <caption webpage="logos---icons" alt=""/>
     </file>
-    <file name="icons-02416x416.jpg" crc="383590771" seo="true" ref="logos---icons">
+    <file name="icons-06.jpg" crc="4179651550" seo="true" ref="logos---icons:phone>logos---icons">
       <caption webpage="logos---icons" alt=""/>
     </file>
-    <file name="icons-03416x416.jpg" crc="4030427338" seo="true" ref="logos---icons">
+    <file name="icons-07.jpg" crc="392457393" seo="true" ref="logos---icons:phone>logos---icons">
       <caption webpage="logos---icons" alt=""/>
     </file>
-    <file name="icons-04416x416.jpg" crc="424093307" seo="true" ref="logos---icons">
+    <file name="icons-08.jpg" crc="4021197037" seo="true" ref="logos---icons:phone>logos---icons">
       <caption webpage="logos---icons" alt=""/>
     </file>
-    <file name="icons-05416x416.png" crc="3992024012" seo="true" ref="logos---icons">
+    <file name="icons-09.jpg" crc="3783345326" seo="true" ref="logos---icons:phone>logos---icons">
       <caption webpage="logos---icons" alt=""/>
     </file>
-    <file name="icons-06416x416.jpg" crc="45392811" seo="true" ref="logos---icons">
+    <file name="loading.gif" crc="3815509949" ref="logos---icons:phone>logos---icons"/>
+    <file name="icons-01416x416.jpg" crc="149970302" seo="true" ref="phone>logos---icons">
       <caption webpage="logos---icons" alt=""/>
     </file>
-    <file name="icons-07416x416.jpg" crc="4030400074" seo="true" ref="logos---icons">
+    <file name="icons-02416x416.jpg" crc="383590771" seo="true" ref="phone>logos---icons">
       <caption webpage="logos---icons" alt=""/>
     </file>
-    <file name="icons-08416x416.jpg" crc="3831935558" seo="true" ref="logos---icons">
+    <file name="icons-03416x416.jpg" crc="4030427338" seo="true" ref="phone>logos---icons">
       <caption webpage="logos---icons" alt=""/>
     </file>
-    <file name="icons-09416x416.jpg" crc="469926729" seo="true" ref="logos---icons">
+    <file name="icons-04416x416.jpg" crc="424093307" seo="true" ref="phone>logos---icons">
+      <caption webpage="logos---icons" alt=""/>
+    </file>
+    <file name="icons-05416x416.png" crc="3992024012" seo="true" ref="phone>logos---icons">
+      <caption webpage="logos---icons" alt=""/>
+    </file>
+    <file name="icons-06416x416.jpg" crc="45392811" seo="true" ref="phone>logos---icons">
+      <caption webpage="logos---icons" alt=""/>
+    </file>
+    <file name="icons-07416x416.jpg" crc="4030400074" seo="true" ref="phone>logos---icons">
+      <caption webpage="logos---icons" alt=""/>
+    </file>
+    <file name="icons-08416x416.jpg" crc="3831935558" seo="true" ref="phone>logos---icons">
+      <caption webpage="logos---icons" alt=""/>
+    </file>
+    <file name="icons-09416x416.jpg" crc="469926729" seo="true" ref="phone>logos---icons">
       <caption webpage="logos---icons" alt=""/>
     </file>
     <file name="331-3-02.jpg" crc="78541834" ref="33-and-a-third">
@@ -143,9 +141,6 @@
     <file name="331-3-03.jpg" crc="4000368519" ref="33-and-a-third">
       <caption webpage="33-and-a-third" alt=""/>
     </file>
-    <file name="331-3-02-u6601-fr.jpg" crc="4288307813" ref="33-and-a-third"/>
-    <file name="331-3-01-u7068-fr.jpg" crc="3995272885" ref="33-and-a-third"/>
-    <file name="331-3-03-u7082-fr.jpg" crc="4120493298" ref="33-and-a-third"/>
     <file name="houndstooth-04.jpg" crc="4293859425" ref="hounds-tooth">
       <caption webpage="hounds-tooth" alt=""/>
     </file>
@@ -158,9 +153,6 @@
     <file name="houndstooth-02.jpg" crc="189333229" ref="hounds-tooth">
       <caption webpage="hounds-tooth" alt=""/>
     </file>
-    <file name="houndstooth-04-u7005-fr.jpg" crc="3796048268" ref="hounds-tooth"/>
-    <file name="houndstooth-03-u7018-fr.jpg" crc="365874759" ref="hounds-tooth"/>
-    <file name="houndstooth-02-u7046-fr.jpg" crc="4225279841" ref="hounds-tooth"/>
     <file name="ocs-02.png" crc="400578282" ref="ocs">
       <caption webpage="ocs" alt=""/>
     </file>
@@ -179,16 +171,24 @@
     <file name="ocs-03.jpg" crc="207162321" ref="ocs">
       <caption webpage="ocs" alt=""/>
     </file>
-    <file name="ocs-05-u7141-fr.jpg" crc="3858897553" ref="ocs"/>
-    <file name="ocs-01-u7144-fr.jpg" crc="3906200164" ref="ocs"/>
-    <file name="ocs-04-u7168-fr.jpg" crc="4153099873" ref="ocs"/>
-    <file name="ocs-06-u7174-fr.jpg" crc="4233772732" ref="ocs"/>
-    <file name="ocs-03-u7180-fr.jpg" crc="153149543" ref="ocs"/>
+    <file name="331-3-02-u8192-fr.jpg" crc="4288307813" ref="phone>index:phone>33-and-a-third"/>
+    <file name="houndstooth-01-u8195-fr.jpg" crc="4264370818" ref="phone>index:phone>hounds-tooth"/>
+    <file name="ocs-02-u8194-fr.png" crc="178094982" ref="phone>index:phone>ocs"/>
+    <file name="331-3-01-u8130-fr.jpg" crc="3995272885" ref="phone>33-and-a-third"/>
+    <file name="331-3-03-u8131-fr.jpg" crc="4120493298" ref="phone>33-and-a-third"/>
+    <file name="ocs-05-u8212-fr.jpg" crc="3858897553" ref="phone>ocs"/>
+    <file name="ocs-01-u8213-fr.jpg" crc="3906200164" ref="phone>ocs"/>
+    <file name="ocs-04-u8214-fr.jpg" crc="4153099873" ref="phone>ocs"/>
+    <file name="ocs-06-u8215-fr.jpg" crc="4233772732" ref="phone>ocs"/>
+    <file name="ocs-03-u8216-fr.jpg" crc="153149543" ref="phone>ocs"/>
+    <file name="houndstooth-04-u8244-fr.jpg" crc="3796048268" ref="phone>hounds-tooth"/>
+    <file name="houndstooth-03-u8245-fr.jpg" crc="365874759" ref="phone>hounds-tooth"/>
+    <file name="houndstooth-02-u8246-fr.jpg" crc="4225279841" ref="phone>hounds-tooth"/>
   </folder>
-  <file name="index.html" crc="446900661" seo="true" mt="1593719905471" redirect="true"/>
-  <file name="why-i-want-to-work-at-tango.html" crc="4130400073" seo="true" mt="1582467660938" redirect="true"/>
-  <file name="logos---icons.html" crc="4203106756" seo="true" mt="1593718770577" redirect="true"/>
-  <file name="33-and-a-third.html" crc="249174587" seo="true" mt="1593718377180" redirect="true"/>
-  <file name="hounds-tooth.html" crc="3789057103" seo="true" mt="1593718339199" redirect="true"/>
-  <file name="ocs.html" crc="3954211969" seo="true" mt="1593718434586" redirect="true"/>
+  <file name="index.html" crc="488376047" seo="true" mt="1594118786495" redirect="true"/>
+  <file name="why-i-want-to-work-at-tango.html" crc="314342201" seo="true" mt="1594116985048" redirect="true"/>
+  <file name="logos---icons.html" crc="359614335" seo="true" mt="1594118786495" redirect="true"/>
+  <file name="33-and-a-third.html" crc="239465411" seo="true" mt="1594118786495" redirect="true"/>
+  <file name="hounds-tooth.html" crc="4154683821" seo="true" mt="1594118786495" redirect="true"/>
+  <file name="ocs.html" crc="85339747" seo="true" mt="1594118786495" redirect="true"/>
 </manifest>

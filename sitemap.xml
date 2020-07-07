@@ -2,21 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://connorandrewlinton.com/index.html</loc>
-    <lastmod>2020-07-02</lastmod>
+    <lastmod>2020-07-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://connorandrewlinton.com/phone/index.html"/>
   </url>
   <url>
     <loc>http://connorandrewlinton.com/why-i-want-to-work-at-tango.html</loc>
-    <lastmod>2020-02-23</lastmod>
+    <lastmod>2020-07-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://connorandrewlinton.com/logos---icons.html</loc>
-    <lastmod>2020-07-02</lastmod>
+    <lastmod>2020-07-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://connorandrewlinton.com/phone/logos---icons.html"/>
     <image:image>
       <image:loc>http://connorandrewlinton.com/images/icons-01440x440.jpg</image:loc>
     </image:image>
@@ -71,50 +73,26 @@
     <image:image>
       <image:loc>http://connorandrewlinton.com/images/icons-09.jpg</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://connorandrewlinton.com/images/icons-01416x416.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://connorandrewlinton.com/images/icons-02416x416.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://connorandrewlinton.com/images/icons-03416x416.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://connorandrewlinton.com/images/icons-04416x416.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://connorandrewlinton.com/images/icons-05416x416.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://connorandrewlinton.com/images/icons-06416x416.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://connorandrewlinton.com/images/icons-07416x416.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://connorandrewlinton.com/images/icons-08416x416.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://connorandrewlinton.com/images/icons-09416x416.jpg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://connorandrewlinton.com/33-and-a-third.html</loc>
-    <lastmod>2020-07-02</lastmod>
+    <lastmod>2020-07-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://connorandrewlinton.com/phone/33-and-a-third.html"/>
   </url>
   <url>
     <loc>http://connorandrewlinton.com/hounds-tooth.html</loc>
-    <lastmod>2020-07-02</lastmod>
+    <lastmod>2020-07-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://connorandrewlinton.com/phone/hounds-tooth.html"/>
   </url>
   <url>
     <loc>http://connorandrewlinton.com/ocs.html</loc>
-    <lastmod>2020-07-02</lastmod>
+    <lastmod>2020-07-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://connorandrewlinton.com/phone/ocs.html"/>
   </url>
 </urlset>
